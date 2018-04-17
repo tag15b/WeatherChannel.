@@ -10,14 +10,12 @@ Web Application Development
 Teonna Glispy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I learned to create a weather channel website that shows the current weather and the weather for the next week. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tag15b.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned to create a weather channel website that shows the current weather and the weather for the next week. 
+2. I learned how to implement each day to the website and that day's website onto my website.
+3. I also learned how to modify each day from low to high to make sure the information was correct for each certain day.
